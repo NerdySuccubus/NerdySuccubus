@@ -12,7 +12,7 @@ I'm a Baby Full-stack Developer & UX/UI Designer with a great love for JS. I'm a
 * Trying to get some React.js projects done for my course.
 * Building a better portfolio. 
 * In the near future: forward to take a React-Native & Vue.js courses. 
-* 🔜
+
 
 ### 🌱 Challenges that I’m trying to take on:
 Even during quarantine stage, I'm trying to keep myself busy and healthy. What I'm trying to achieve:  
@@ -21,7 +21,7 @@ Even during quarantine stage, I'm trying to keep myself busy and healthy. What I
 * Bettering my photography editing skills with Adobe Lightroom.
 * Practicing my languages on Duolingo. 
 * Staying social.
-* 🔜
+
 
  
  **Languages and Frameworks:**
