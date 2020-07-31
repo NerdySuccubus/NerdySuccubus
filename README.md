@@ -54,5 +54,5 @@ Thank you for visiting my profile 💖
 <img src="https://komarev.com/ghpvc/?username=NerdySuccubus" alt="NerdySuccubus" />
 
 ![Shina's Github stats](https://github-readme-stats.vercel.app/api?username=nerdysuccubus&show_icons=true)
-(https://github-readme-stats.vercel.app/api?username=NerdySuccubus&show_icons=true&theme=radical&line_height=33)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=NerdySuccubus&hide_langs_below=.25&theme=radical)  
+![Shina's Github stats](https://github-readme-stats.vercel.app/api?username=NerdySuccubus&show_icons=true&theme=radical&line_height=33)
+![Shina's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NerdySuccubus&hide_langs_below=.25&theme=radical)  
