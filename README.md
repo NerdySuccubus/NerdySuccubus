@@ -24,10 +24,13 @@ Even during quarantine stage, I'm trying to keep myself busy and healthy. What I
  
  **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="CSS" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="html" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JS" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" alt="Typescript" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg" alt="NodeJS" width="40" height="40" /></code>&nbsp;
    </p>
 
 **Find me here:**
@@ -39,7 +42,7 @@ Even during quarantine stage, I'm trying to keep myself busy and healthy. What I
   <img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://www.duolingo.com/profile/NerdySuccubus">
-  <img align="left" alt="Duolingo" width="22px" src="https://pm.uokpl.rs/fpng/s/396-3960723_how-to-share.png" />
+  <img align="left" alt="Duolingo" width="30px" src="https://pm.uokpl.rs/fpng/s/396-3960723_how-to-share.png" />
 </a>
 <br /> &nbsp;&nbsp;
 </p>
