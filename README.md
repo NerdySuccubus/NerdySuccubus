@@ -4,7 +4,7 @@
 
 I'm a Baby Full-stack Developer & UX/UI Designer with a great love for JS. I'm a Multimedia & Interaction Design graduate 👩🏻‍💻👩‍🎓
 
-<img align="right" alt="GIF" src="https://i1.wp.com/nerdmacia.cl/wp-content/uploads/2019/12/hackerman-by-shiiftyshift-dan31sc-600x281.png" width="400" height="300" />
+<img align="right" src="https://i1.wp.com/nerdmacia.cl/wp-content/uploads/2019/12/hackerman-by-shiiftyshift-dan31sc-1280x600.png" width="600" />
 
 ### 💼  Things that I'm currently working on: 
 * Trying to get some React.js projects done for my course.
