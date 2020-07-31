@@ -1,9 +1,9 @@
 # Hello world 👋 
 
 ### My name is Carolina Martin but please call me Shina 💖, 
-<p align="left" >
-### I'm a Baby Full-stack Developer & UX/UI Designer with a great love for JS. I'm a Multimedia & Interaction Design graduate 👩🏻‍💻👩🏻‍🎓 &nbsp;
 
+### I'm a Baby Full-stack Developer & UX/UI Designer with a great love for JS. I'm a Multimedia & Interaction Design graduate 👩🏻‍💻👩🏻‍🎓 &nbsp;
+<p align="left" >
 <img src="https://i1.wp.com/nerdmacia.cl/wp-content/uploads/2019/12/hackerman-by-shiiftyshift-dan31sc-1280x600.png" width="600" /> </br>
 &nbsp;
 </p>
